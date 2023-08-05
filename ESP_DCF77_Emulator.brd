@@ -1759,7 +1759,7 @@ W = angled&lt;p&gt;
 <attribute name="NAME" x="13.3" y="9.6" size="0.7" layer="25" font="vector" ratio="12" rot="R90"/>
 <attribute name="VALUE" x="16.905" y="13.175" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="R1" library="rcl" package="R0603" value="12k" x="23" y="9" smashed="yes" rot="R270">
+<element name="R1" library="rcl" package="R0603" value="100R" x="23" y="9" smashed="yes" rot="R270">
 <attribute name="NAME" x="23.3" y="10.5" size="0.7" layer="25" font="vector" ratio="12" rot="R90"/>
 <attribute name="VALUE" x="21.095" y="9.635" size="1.27" layer="27" rot="R270"/>
 </element>
@@ -1767,7 +1767,7 @@ W = angled&lt;p&gt;
 <attribute name="NAME" x="15.4" y="18.5" size="0.7" layer="25" font="vector" ratio="12" rot="R180"/>
 <attribute name="VALUE" x="14.365" y="15.095" size="1.27" layer="27"/>
 </element>
-<element name="R2" library="rcl" package="R0603" value="10k" x="15" y="6.5" smashed="yes" rot="R270">
+<element name="R2" library="rcl" package="R0603" value="4k7" x="15" y="6.5" smashed="yes" rot="R270">
 <attribute name="NAME" x="15.7" y="7" size="0.7" layer="25" font="vector" ratio="12" rot="R270"/>
 <attribute name="VALUE" x="13.095" y="7.135" size="1.27" layer="27" rot="R270"/>
 </element>
